@@ -1,0 +1,68 @@
+﻿@model List<MvcApp.Models.Items.Items>
+
+    @{
+        ViewData["title"] = "Index";
+    }
+
+    <h3>All Records</h3>
+
+<table cellspacing="10">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Department</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Age</td>
+                <td>@item.Department</td>
+                <td><a asp-action="Edit" asp-route-id=@item.Id>Edit</a></td>
+                <td><a asp-action="Delete" asp-route-id=@item.Id>Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<br /><br />
+@using (Html.BeginForm("Create", "Crud", FormMethod.Post))
+{
+    @foreach (var item in Model)
+    {
+        <div>
+            @Html.LabelFor(x => item.Name)
+            @Html.TextBoxFor(x => item.Name, new { @class = "form-control" })
+        </div>
+
+        <div>
+            @Html.LabelFor(m => item.Age)
+            @Html.TextBoxFor(m => item.Age, new { @class = "form-control" })
+        </div>
+
+        <div>
+            @Html.CheckBoxFor(m => item.Agree) Agree ?
+        </div>
+
+        <div>
+            @Html.LabelFor(m => item.Department)
+            @Html.DropDownListFor(m => item.Department, new List<SelectListItem>
+            {
+                new SelectListItem { Text = "HR", Value = "HR" },
+        new SelectListItem { Text = "IT", Value = "IT" },
+        new SelectListItem { Text = "FINANCE", Value = "FI" }
+        }, "Select Department")
+        </div>
+    }
+
+    <br />
+    <button type="submit" class="btn btn-success">Register</button>
+}
+
+<br />
+
+<partial name="_Footer"/>

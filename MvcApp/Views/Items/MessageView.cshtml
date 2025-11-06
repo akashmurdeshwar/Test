@@ -1,0 +1,20 @@
+﻿@{
+    var message = "Razor syntax message type";
+}
+
+<h1>@message</h1>
+
+@{
+    var isLoggedIn = false;
+}
+
+@if (isLoggedIn)
+{
+    <p>Welcome back, user!</p>
+    <button>Logout</button>
+}
+else
+{
+    <p>Please log in to continue.</p>
+    <button>Login</button>
+}

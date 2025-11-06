@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murde\\source\\repos\\MvcApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\views\\crud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:views\\crud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\views\\crud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:views\\crud\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\helpers\\customhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:helpers\\customhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\views\\crud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:views\\crud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\views\\home\\start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:views\\home\\start.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\models\\items\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:models\\items\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\views\\shared\\_card.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:views\\shared\\_card.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\views\\crud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:views\\crud\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\views\\items\\messageview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:views\\items\\messageview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\views\\items\\listview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:views\\items\\listview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|c:\\users\\murde\\source\\repos\\mvcapp\\views\\items\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337F6665-7914-4E53-BDCF-5959B684ADF4}|MvcApp.csproj|solutionrelative:views\\items\\overview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Start.cshtml",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Home\\Start.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Start.cshtml",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Home\\Start.cshtml",
+              "RelativeToolTip": "Views\\Home\\Start.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-17T14:56:23.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-17T14:48:30.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-17T06:16:35.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Helpers\\CustomHelpers.cs",
+              "RelativeDocumentMoniker": "Helpers\\CustomHelpers.cs",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Helpers\\CustomHelpers.cs",
+              "RelativeToolTip": "Helpers\\CustomHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:29:44.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:56:55.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T04:53:54.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Crud\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Crud\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Crud\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Crud\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T17:12:43.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Crud\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Crud\\Create.cshtml",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Crud\\Create.cshtml",
+              "RelativeToolTip": "Views\\Crud\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T16:38:39.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Crud\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Crud\\Index.cshtml",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Crud\\Index.cshtml",
+              "RelativeToolTip": "Views\\Crud\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T16:16:43.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CrudController.cs",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Controllers\\CrudController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CrudController.cs",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Controllers\\CrudController.cs",
+              "RelativeToolTip": "Controllers\\CrudController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAEwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T16:11:18.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:11:22.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-17T14:48:39.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Card.cshtml",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Shared\\_Card.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Card.cshtml",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Shared\\_Card.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Card.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T05:05:58.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T04:56:00.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Models\\Items\\Items.cs",
+              "RelativeDocumentMoniker": "Models\\Items\\Items.cs",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Models\\Items\\Items.cs",
+              "RelativeToolTip": "Models\\Items\\Items.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:14:55.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T05:08:12.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Crud\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Crud\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Crud\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Crud\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T17:32:11.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T04:54:01.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ListView.cshtml",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Items\\ListView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Items\\ListView.cshtml",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Items\\ListView.cshtml",
+              "RelativeToolTip": "Views\\Items\\ListView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T11:35:12.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MessageView.cshtml",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Items\\MessageView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Items\\MessageView.cshtml",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Items\\MessageView.cshtml",
+              "RelativeToolTip": "Views\\Items\\MessageView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T11:34:18.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Overview.cshtml",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Items\\Overview.cshtml",
+              "RelativeDocumentMoniker": "Views\\Items\\Overview.cshtml",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Views\\Items\\Overview.cshtml",
+              "RelativeToolTip": "Views\\Items\\Overview.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T10:12:19.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\murde\\source\\repos\\MvcApp\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\murde\\source\\repos\\MvcApp\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:10:48.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

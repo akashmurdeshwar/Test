@@ -1,0 +1,11 @@
+﻿@model List<MvcApp.Models.Items.Items>
+@{
+    ViewData["Title"] = "Privacy Policy";
+    var list = @Model;
+}
+
+
+@foreach (var item in list)
+{
+    <partial name="_Card" model="item" />
+}

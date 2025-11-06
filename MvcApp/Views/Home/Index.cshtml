@@ -1,0 +1,76 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@using MvcApp.Helpers
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+<div>
+@Html.Label("Email", "Email")
+@Html.TextBox("Email", "", new {@class="form-control"})
+</div>
+
+<div>
+@Html.Label("Password","Password")
+@Html.Password("Password", "", new {@class = "form-control" })
+</div>
+
+
+<br />
+@Html.CheckBox("Agree", false)
+@Html.Label("Terms And Conditions")
+
+<br />
+@Html.TextArea("About", "asdfg", 5,10, null)
+<br />
+@Html.TextArea("About", "", new { rows = 4, cols = 30 })
+
+<br /><br />
+
+@Html.DropDownList("Gender", new List<SelectListItem>
+    {
+        new SelectListItem{Text="Male", Value="M"},
+        new SelectListItem{Text="Female", Value="F"},
+        new SelectListItem{Text="Others", Value="O"}
+    },"Select Gender")
+
+<br />
+
+@Html.ActionLink("Privacy", "Privacy")
+@Html.ActionLink("Crud controller Index method", "Index", "Crud")
+
+<br />
+
+
+@* @Html.Redlabel("This is a custom label"); *@
+
+<a href="@Url.Action("Error", "Home")"> Url helper action type</a>
+
+<br />
+<a href="@Url.RouteUrl("Default")"> Url helper route url type</a>
+<br />
+<a href="@Url.RouteUrl(new { controller = "Home", Action = "Error" })"> Url helper route url type with object</a>
+
+<br />
+
+<img src="@Url.Content("~/Content/Image/logo.png")" />
+<img src="C:/Users/murde/source/repos/MvcApp/Content/Image/logo.png" />
+
+@* C:\Users\murde\source\repos\MvcApp\Content\Image\logo.png *@
+@* C:\Users\murde\source\repos\MvcApp\Content\Image\logo.png *@
+
+<br />
+<a href="@Url.RouteUrl("PrivacyRoute")">Custom url path</a>
+<br />
+<a href="@Url.Content("~/api/Home1/Privacy")">Custom url path using content</a>
+
+@for (int i = 0; i < 10; i++)
+{
+    <partial name="_Footer" />
+}
+
+

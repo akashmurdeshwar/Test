@@ -1,0 +1,20 @@
+﻿@model MvcApp.Models.Items.Items
+
+<div>
+    <h4>@Model.Name</h4>
+</div>
+<div>
+    <p>@Model.Age</p>
+</div>
+<div>
+    <p>@Model.Department</p>
+</div>
+
+
+
+@* <partial name="_Footer" /> *@ @* best practice *@
+@Html.Partial("_Footer")   @* obsolete *@
+@* @{
+    Html.RenderPartial("_Footer");
+} *@
+@* obsolete *@

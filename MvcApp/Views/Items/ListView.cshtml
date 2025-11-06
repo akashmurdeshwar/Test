@@ -1,0 +1,29 @@
+﻿@{
+    var listString = new List<string>()
+    {
+        "Akash", "Rajat", "Amar"
+    };
+}
+
+
+<ol>
+    @foreach (var item in listString)
+    {
+        <li>
+            @item
+        </li>
+    }
+</ol>
+
+@{
+    listString.Sort();
+
+}
+<ul>
+    @foreach (var item in listString)
+    {
+        <li>
+            @item
+        </li>
+    }
+</ul>

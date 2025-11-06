@@ -1,0 +1,16 @@
+﻿@model MvcApp.Models.Items.Items;
+@{
+    ViewData["title"] = "Delete";
+}
+
+<h3>Delete User Data</h3>
+
+<p>Are You Sure To Delete This Item ?</p>
+
+<p>@Model.Name</p>
+<p>@Model.Department</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <input type="submit" class="btn btn-danger" value="Delete" />
+</form>
